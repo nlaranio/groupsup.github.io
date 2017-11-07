@@ -10,8 +10,8 @@ GroupsUp is an application designed to promote student activity and the growth o
 
 # Meet the Team
 
-### [Sollie Garcia]()
-### [Nolan Laranio](nlaranio.github.io)
+* [Sollie Garcia]()
+* [Nolan Laranio](wwww.nlaranio.github.io)
 
 # Application Design
 
