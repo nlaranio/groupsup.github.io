@@ -12,4 +12,4 @@ GroupsUp is an application designed to promote student activity and the growth o
 * [Sollie Garcia](https://solliegarcia.github.io/)
 * [Nolan Laranio](https://nlaranio.github.io/)
 * [Towner Hale]()
-* [Eugene Lao]
+* [Eugene Lao]()
