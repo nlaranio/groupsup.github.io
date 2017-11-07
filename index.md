@@ -2,7 +2,6 @@
 
 * [About GroupsUp](#about-groupsup)
 * [Meet the Team](#meet-the-team)
-* [Application design](#application-design)
 
 # About GroupsUp
 
@@ -10,9 +9,6 @@ GroupsUp is an application designed to promote student activity and the growth o
 
 # Meet the Team
 
-* [Sollie Garcia]()
+* [Sollie Garcia](https://solliegarcia.github.io/)
 * [Nolan Laranio](https://nlaranio.github.io/)
 
-# Application Design
-
-# Development History
