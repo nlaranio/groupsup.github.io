@@ -1,3 +1,13 @@
-# About tempfinalproject
+# Table of Contents
 
-No one has messaged about the project so I have to do everything.
+* [About GroupsUp](#about-groupsup)
+* [Application design](#application-design)
+* [Development history](#development-history)
+
+# About GroupsUp
+
+Is an application designed for the students of University of Hawaii to find become more involved with students of similar interest and hobbies.
+
+# Application Design
+
+# Development History
