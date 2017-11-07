@@ -6,7 +6,7 @@
 
 # About GroupsUp
 
-Is an application designed for the students of University of Hawaii to find become more involved with students of similar interest and hobbies.
+GroupsUp is an application designed for the students of University of Hawaii to find become more involved with students of similar interest and hobbies.
 
 # Application Design
 
